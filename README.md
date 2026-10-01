@@ -9,6 +9,18 @@ O codigo identifica:
 
 Quando um dos limites é atingido, o jogador é mutado
 
+# Como usar
+
+Modifique e integre esse codigo no codigo da sua sala 
+
+## Caso não tiver uma sala/experiência
+
+- Entre no [Haxball Headless](https://www.haxball.com/headless)
+- Aperte F12 (DevTools) vá em Console
+- Cole o codigo
+- Aperte enter
+- Faça o Captcha do Headless
+
 ## Configuração
 
 As configurações ficam no início do código:
