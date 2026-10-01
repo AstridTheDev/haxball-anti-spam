@@ -1,17 +1,17 @@
 # Anti-Spam
 
-Sistema de proteção contra spam feito em JavaScript para HaxBall.
+Ferramenta Anti-Spam para salas de HaxBall
 
-O sistema detecta:
+O codigo identifica:
 
 - mensagens iguais enviadas repetidamente (spam)
 - muitas mensagens em um curto tempo
 
-Quando um dos limites configurados é atingido, o jogador recebe um mute automático.
+Quando um dos limites é atingido, o jogador é mutado
 
 ## Configuração
 
-As configurações podem ser personalizadas no início do código:
+As configurações ficam no início do código:
 
 ```js
 const maxSpam = 5;
@@ -22,7 +22,7 @@ const muteTime = 10;
 
 ### `maxSpam`
 
-Define quantas mensagens iguais consecutivas são necessárias.
+Define o limite de mensagens seguidas
 
 Exemplo:
 
@@ -58,8 +58,8 @@ Se o jogador enviar 7 mensagens dentro do cooldown configurado, ele será mutado
 
 ### `spamWindow`
 
-Define o cooldown usado pelo sistema de limite de mensagens.
-O valor é em milissegundos.
+Define o cooldown (o intervalo que o jogador pode mandar mensagem)
+Valor em milissegundos
 
 Exemplo:
 
@@ -114,8 +114,8 @@ O mute dura 10 segundos.
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT.
+Esse projeto é distribuído sob a licença MIT.
 
-Você pode usar, modificar e distribuir o código livremente, desde que os termos da licença MIT sejam respeitados.
+Você pode usar, modificar e distribuir o código livremente, desde que os termos da licença sejam respeitados.
 
-Consulte o arquivo `LICENSE` para mais informações.
+Veja o arquivo `LICENSE` para mais informações.
