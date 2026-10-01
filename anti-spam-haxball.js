@@ -1,5 +1,9 @@
+    // anti spam template
+    // modifique o codigo para implementar na sua sala
+    // me de os creditos, por favor
+    
     const room = HBInit({
-        roomName: "Anti-Flood",
+        roomName: "Anti-Spam",
         maxPlayers: 16,
         public: false,
         noPlayer: true
