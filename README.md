@@ -1,19 +1,27 @@
 # Anti-Spam
 
-Ferramenta Anti-Spam para salas de HaxBall
+Script contra flood & spam para HaxBall, feito totalmente em JavaScript
+Versão Atual: 1.1.0v
 
-O codigo identifica:
+O código identifica:
 
 - mensagens iguais enviadas repetidamente (spam)
 - muitas mensagens em um curto tempo
 
 Quando um dos limites é atingido, o jogador é mutado
 
+## Sumário
+
+- [Como usar](#como-usar)
+- [Configuração](#configuracao)
+- [Licença](#licenca)
+
 # Como usar
 
-Modifique e integre esse codigo no codigo da sua sala 
+Modifique e integre esse template no código da sua sala 
+Não cole ele sem modificações no seu código, a versão original cria uma nova sala, modifique e tire essa parte
 
-## Caso não tiver uma sala/experiência
+## Caso não tiver uma sala
 
 - Entre no [Haxball Headless](https://www.haxball.com/headless)
 - Aperte F12 (DevTools) vá em Console
