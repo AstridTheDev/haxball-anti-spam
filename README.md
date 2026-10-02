@@ -13,8 +13,8 @@ Quando um dos limites é atingido, o jogador é mutado
 ## Sumário
 
 - [Como usar](#como-usar)
-- [Configuração](#configuracao)
-- [Licença](#licenca)
+- [Configuração](#configuração)
+- [Licença](#licença)
 
 # Como usar
 
