@@ -10,11 +10,11 @@ O código identifica:
 
 Quando um dos limites é atingido, o jogador é mutado
 
-## Sumário
+# Sumário
 
-- [Como usar](#como-usar)
-- [Configuração](#configuração)
-- [Licença](#licença)
+- [Como usar](#como-usar) Tutorial de como usar o código
+- [Configuração](#configuração) Configurações personalizáveis 
+- [Licença](#licença) **Licença** para usar o codigo
 
 # Como usar
 
